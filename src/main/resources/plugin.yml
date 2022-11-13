@@ -1,0 +1,22 @@
+name: LeagueWeapons
+version: 1.0
+author: Galakrond
+main: com.tistory.devgarlic.leagueweapons.LeagueWeapons
+api-version: 1.19
+
+commands:
+  getnasusq:
+    description: Give Siphoning Strike to Player.
+    usage: /<command>
+  getjaxe:
+    description: Give Counter Strike to Player.
+    usage: /<command>
+  getcogmawr:
+    description: Give Living Artillery to Player.
+    usage: /<command>
+  getakalir:
+    description: Give Perfect Execution to Player.
+    usage: /<command>
+  viewitemmeta:
+    description: see Main Hand item's ItemMeta
+    usage: /<command>
