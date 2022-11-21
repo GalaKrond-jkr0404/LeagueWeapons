@@ -65,7 +65,7 @@ public class ItemManager {
         jaxEMeta.setDisplayName("§9 Counter Strike");
         List<String> jaxELore = new ArrayList<>();
         jaxELore.add("§6 Immune to all damage for a short time.");
-        jaxELore.add("§6 After that. deal damage to nearby Enemys and §7root §6them. ");
+        jaxELore.add("§6 After that. deal damage to nearby Enemies and §7root §6them. ");
         jaxELore.add("§o§7 - cooldown : 10s");
         jaxELore.add("Let's do this!");
         jaxELore.add("§o- Jax, Grandmaster at Arms");
@@ -97,4 +97,5 @@ public class ItemManager {
         COG_R = cogR;
 
     }
+
 }

@@ -14,9 +14,7 @@ commands:
   getcogmawr:
     description: Give Living Artillery to Player.
     usage: /<command>
-  getakalir:
-    description: Give Perfect Execution to Player.
-    usage: /<command>
+
   viewitemmeta:
     description: see Main Hand item's ItemMeta
     usage: /<command>
